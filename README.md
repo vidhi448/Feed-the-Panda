@@ -7,7 +7,8 @@ It is designed using MIT App Inventor which senses hand movements to feed the pa
 Technologies used:
 Arduino + Android/Processing, output modalities, IP sensor, Touch sensor, Bluetooth Client.
 
-Links:
-Link to a 3-min Video uploaded on Youtube as an unlisted video  with access permissions to anyone with the link: https://www.youtube.com/watch?v=ln8wB_3Uvgs&feature=youtu.be
+Presentation YouTube Link: https://www.youtube.com/watch?v=ln8wB_3Uvgs&feature=youtu.be
+
 Link to PDF of aslides uploaded on Google Drive : https://drive.google.com/file/d/1jMkoDDpH3oKZzTQAD9PvcjUmTDvpE_gt/view?usp=sharing
+
 Link to a Google Drive folder containing Arduino code, Processing code or MIT App Inventor project: https://drive.google.com/drive/folders/1G9pduO4k51RSE0etC0XCX8uaFrUnUYpc?usp=sharing
